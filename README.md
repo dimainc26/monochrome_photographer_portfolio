@@ -53,9 +53,9 @@ Each section is designed to communicate a precise photographic identity: minimal
 
 <div align="center">
 
-| Portrait Mood | Motion Story | Editorial Detail |
+| Home | Portfolio | Blog |
 |:---:|:---:|:---:|
-| ![Shooter](https://github.com/dimainc26/monochrome_photographer_portfolio/blob/main/assets/imgs/shooter.jpg) | ![Dance](https://github.com/dimainc26/monochrome_photographer_portfolio/blob/main/assets/imgs/dance.jpg) | ![Shootere](https://github.com/dimainc26/monochrome_photographer_portfolio/blob/main/assets/imgs/shootere.jpg) |
+| ![Shooter](https://github.com/dimainc26/monochrome_photographer_portfolio/blob/main/assets/home.png) | ![Dance](https://github.com/dimainc26/monochrome_photographer_portfolio/blob/main/assets/portfolio.png) | ![Shootere](https://github.com/dimainc26/monochrome_photographer_portfolio/blob/main/assets/blog.png) |
 
 </div>
 
